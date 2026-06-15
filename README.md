@@ -17,6 +17,7 @@ Las skills de este repositorio están diseñadas para ser reutilizables, fácile
 | Skill | Descripción |
 |---------|-------------|
 | [wompi-payments](./skills/wompi-payments) | Skill para integrar Wompi (pasarela de pagos colombiana) en proyectos con Convex backend. Cubre configuración, widget de checkout, firma de integridad, webhook y procesamiento de pagos. |
+| [booking-system](./skills/booking-system) | Guía completa para implementar un sistema de agendamiento multi-paso en cualquier proyecto React + TypeScript. Independiente de diseño visual, contenido o integraciones específicas. |
 
 ## Instrucciones de uso
 

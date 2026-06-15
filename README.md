@@ -34,6 +34,8 @@ Las contribuciones son bienvenidas. Si encuentras una mejora, un error o quieres
 
 ## Licencia
 
-Este repositorio se distribuye bajo la licencia **CC BY 4.0 (Creative Commons Attribution 4.0 International)**.
+Este proyecto se distribuye bajo la licencia **MIT**.
 
-Puedes utilizar, modificar y distribuir las skills libremente, incluso para fines comerciales, siempre que otorgues la atribución correspondiente a los autores originales.
+Se permite el uso, copia, modificación, distribución y uso comercial de las skills y recursos incluidos en este repositorio, siempre que se conserve el aviso de copyright y la licencia original.
+
+Consulta el archivo [LICENSE](./LICENSE) para más información.

@@ -18,6 +18,16 @@ Las skills de este repositorio están diseñadas para ser reutilizables, fácile
 |---------|-------------|
 | [wompi-payments](./skills/wompi-payments) | Skill para integrar Wompi (pasarela de pagos colombiana) en proyectos con Convex backend. Cubre configuración, widget de checkout, firma de integridad, webhook y procesamiento de pagos. |
 
+## Instrucciones de uso
+
+Las skills de SkillForge pueden utilizarse en diferentes herramientas de desarrollo asistido por IA como Cursor, Claude Code, Kiro, TRAE, VS Code, Antigravity y otras plataformas compatibles.
+
+Consulta la guía completa de uso para conocer la estructura de las skills, recomendaciones de integración y ejemplos para cada herramienta:
+
+📖 **[Instrucciones de uso](./Instrucciones.md)**
+
+En general, cada skill está compuesta por un archivo principal `SKILL.md` y documentación complementaria dentro de la carpeta `references/`. Se recomienda que la IA tenga acceso a toda la carpeta de la skill para obtener los mejores resultados.
+
 ## Filosofía
 
 Las skills publicadas en SkillForge siguen algunos principios simples:

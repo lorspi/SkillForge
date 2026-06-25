@@ -14,10 +14,11 @@ Las skills de este repositorio están diseñadas para ser reutilizables, fácile
 
 ## Skills disponibles
 
-| Skill | Descripción |
-|---------|-------------|
-| [wompi-payments](./skills/wompi-payments) | Skill para integrar Wompi (pasarela de pagos colombiana) en proyectos con Convex backend. Cubre configuración, widget de checkout, firma de integridad, webhook y procesamiento de pagos. |
-| [booking-system](./skills/booking-system) | Guía completa para implementar un sistema de agendamiento multi-paso en cualquier proyecto React + TypeScript. Independiente de diseño visual, contenido o integraciones específicas. |
+| Skill                                                       | Descripción                                                                                                                                                                               |
+| -------------------------------------------------------------| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [wompi-payments](./skills/wompi-payments)                   | Skill para integrar Wompi (pasarela de pagos colombiana) en proyectos con Convex backend. Cubre configuración, widget de checkout, firma de integridad, webhook y procesamiento de pagos. |
+| [booking-system](./skills/booking-system)                   | Guía completa para implementar un sistema de agendamiento multi-paso en cualquier proyecto React + TypeScript. Independiente de diseño visual, contenido o integraciones específicas.     |
+| [printable-document-view](./skills/printable-document-view) | Crea un componente de visualización de documentos/facturas optimizado para imprimir en PDF mediante `window.print()`. Utiliza React + Tailwind CSS con un diseño de página A4 simulado en pantalla que se corresponde perfectamente con una página impresa.     |
 
 ## Instrucciones de uso
 
